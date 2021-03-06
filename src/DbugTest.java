@@ -13,7 +13,6 @@ public class DbugTest {
         map.put("class","computer");
         String age=map.get("age");
         System.out.println("age="+age);
-        map.remove("major");
         System.out.println(map);
     }
 }
